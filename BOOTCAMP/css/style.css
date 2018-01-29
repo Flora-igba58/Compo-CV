@@ -1,0 +1,33 @@
+@import url("navbar.css");
+@import url("avatars.css");
+@import url("button.css");
+@import url("footer.css");
+
+body{
+  background-image: url(../img/shanghai.jpg);
+  font-family: 'Open Sans',sans-serif;
+  color: black;
+  font-size: 20px;
+  text-shadow: 0 0 20px;
+  font-weight: lighter;
+}
+
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 0px 1px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0px 1px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: lighter;
+  color: white;
+}
+
